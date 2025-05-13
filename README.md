@@ -83,7 +83,7 @@ It'll launch a real-time plot window showing:
 
 ## 📸 Here's How It Looks
 
-![App Screenshot](.png)
+![App Screenshot](Screenshot 2025-05-13 172204.png)
 
 ---
 
